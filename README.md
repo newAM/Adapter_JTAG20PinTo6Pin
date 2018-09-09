@@ -1,6 +1,6 @@
 ## 20-Pin to 6-Pin adapter for JTAG debuggers
 
-This project is a small PCB adapter to to convert a 20-Pin JTAG interface into a 6-Pin interface with these signals:
+This project is a small PCB adapter to convert a 20-Pin JTAG interface into a 6-Pin interface with these signals:
 * VTREF
 * SWCLK
 * GND
